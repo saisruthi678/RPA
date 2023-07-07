@@ -1,0 +1,12 @@
+﻿{
+  "Id": "LZOgI-Hy00-xy1cydIiceA",
+  "Reference": "XKlL3yPmDkqmfP15PKv6Ww/LZOgI-Hy00-xy1cydIiceA",
+  "ParentRef": "XKlL3yPmDkqmfP15PKv6Ww/pBe3X_ldZU6cYqBEhJB9QQ",
+  "Name": "Chrome: temperature in hyderabad - Google Sea",
+  "Type": "Screen",
+  "Created": "2023-06-27T13:31:37.5441912Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-27T13:31:37.5441912Z"
+}

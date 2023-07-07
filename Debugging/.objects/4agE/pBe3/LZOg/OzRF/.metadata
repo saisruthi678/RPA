@@ -1,0 +1,13 @@
+﻿{
+  "Id": "OzRFRQlhjUm9Ip9p53VeLQ",
+  "Reference": "XKlL3yPmDkqmfP15PKv6Ww/OzRFRQlhjUm9Ip9p53VeLQ",
+  "ParentRef": "XKlL3yPmDkqmfP15PKv6Ww/LZOgI-Hy00-xy1cydIiceA",
+  "Name": "28",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-06-27T13:31:37.6108954Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-27T13:31:37.6108954Z"
+}
